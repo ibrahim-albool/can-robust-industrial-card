@@ -7,4 +7,8 @@ The can message is transmitted to/from CAN buffer directly to the RAM using DMA.
 Hardware folder contains the Schematic and Layout designed on Altium designer. 
 Software folder contains the input and output cards' software codes built on MPLAB X IDE v3.26, C Compiler Version: XC16 v1.26 .
 
+#The Card: 
+![](images/card.jpg)
 
+#The Card Powered: 
+![](images/card_powered.jpg)
