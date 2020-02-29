@@ -1,0 +1,27 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~NodeCardV2.PrjPcb|ReportField=ProjectFullPath~\\WDMyCloudMirror\Volume1\Desktop Files\Dalbeh Wood Sanding Machine\CARDS Design\CAN Node Card V2.0\Design\NodeCardV2.PrjPcb|ReportField=Title~Bill of Materials For Project [NodeCardV2.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~93|ReportField=ReportTime~6:56:24 PM|ReportField=ReportDate~7/16/2017|ReportField=ReportDateTime~7/16/2017 6:56:24 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~NodeCardV2.PrjPcb|ReportField=DataSourceFullPath~\\WDMyCloudMirror\Volume1\Desktop Files\Dalbeh Wood Sanding Machine\CARDS Design\CAN Node Card V2.0\Design\NodeCardV2.PrjPcb
+TestPoint|Test Point|T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16, T17, T18, T19, T20, T21, T22, T23, T24, T25, T26, T27, T28, T29|Test Point|Test Point|29
+Res1|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18|6-0805_L|Res1|18
+Cap|Capacitor|C10, C11, C12, C13, C14, C15, C17, C18|1608[0603]|Cap|8
+HCPL0601||U2, U4, U5, U7, U8, U9, U12|SOIC08|HCPL0601|7
+Cap|Capacitor|C1, C2, C3, C16|C0805|Cap|4
+150060GS75000|SMD mono-color Chip LED, WL-SMCW, Green|LED1, LED2, LED3|LED_0603_Green|WL-SMCW 0603  150060GS75000|3
+Zener|WE-TVSP Power TVS Diode, Unidirectional, 1500 W, 100 VDC|Z1, Z2, Z4|SMB|WE-TVSP DO-214AB, 824540102|3
+100uF|WCAP-PSLP Aluminum Polymer Capacitors , 22 µF; + / - 20%; 16 V , 6,3 x 5,8, WCAP-PSLP Aluminum Polymer Capacitors , 22 µF; + / - 20%; 16V , 6,3 x 5,8|C4, C8|WCAP-PSLP 6.3x5.8x2.2|WCAP-PSLP 6.3x5.8x2.2 875105544003|2
+Diode|Default Diode|D1, D2|DO-214AB_Unidirectional|Diode|2
+22 µF|WCAP-PSLP Aluminum Polymer Capacitors , 22 µF; + / - 20%; 50 V , 6,3 x 5,8|C6|WCAP-PSLP 6.3x5.8x2.2|WCAP-PSLP 6.3x5.8x2.2 875105544003|1
+220uF|WCAP-PTG5 Aluminum Polymer Capacitors , 1000 µF; + / - 20%; 6,3 V , 10 x 12,5|C5|WCAP-PTG5 10x12.5x5x0.6|WCAP-PTG5 10x12.5x5x0.6 870025175010|1
+22uF|WCAP-PSLP Aluminum Polymer Capacitors , 10 µF; + / - 20%; 10 V , 4 x 5,5|C9|WCAP-PSLP 4x5.5x1|WCAP-PSLP 4x5.5x1 875105240001|1
+36V zener|WE-TVSP Power TVS Diode, Unidirectional, 1500 W, 100 VDC|Z3|DO-214AB_Unidirectional|WE-TVSP DO-214AB, 824540102|1
+68uH|SMD-Shielded Power Inductor WE-PD, L=1.50 µH|L1|WE-PD 1030|WE-PD 1030, 7447713015|1
+691241710005|WR-TBL Horizontal Cable Entry With Rising Cage Clamp,Serie 2417 - 5.00 mm|J3|691241710005|691241710005|1
+ABLS2-8.000MHZ-D4Y-T||X1|XTAL1140X470X330|ABLS2-8.000MHZ-D4Y-T|1
+Cap|Capacitor|C7|C1206|Cap|1
+DSPIC33EP512MC806-I/PT|16-Bit Microcontroller and Digital Signal Controller with High-Speed PWM, USB and Advanced Analog, 70 MIPS, 53 I/O, EPMP, -40 to 85 degC, 64-pin TQFP (PT64), Tray|U1|MCHP-TQFP-PT64_N|DSPIC33EP512MC806-I/PT|1
+Header 5|Header, 5-Pin|J2|HDR1X5|Header 5|1
+Header 7|Header, 7-Pin|J1|HDR1X7|Header 7|1
+LM2675M-5.0/NOPB|SIMPLE SWITCHER® Power Converter High Efficiency 1A Step-Down Voltage Regulator, 8-pin Narrow SOIC, Pb-Free|U6|M08A_N|LM2675M-5.0/NOPB|1
+NKE0305SC|muRata 3.3 to 5.0 isolated converter|U13|NKE0305SC|NKE0305SC|1
+SN65HVD1050D|High-Speed EMC Optimized CAN Transceiver, 70 mA, 5 V, -40 to 125 degC, 8-pin SOIC (D), Green (RoHS & no Sb/Br)|U11|D8_L|SN65HVD1050D|1
+SN74HC14D|Hex Schmitt-Trigger Inverter|U10|D014_N|SN74HC14D|1
+SN74HC14D|Hex Schmitt-Trigger Inverter|U3|D014_L|SN74HC14D|1
+TEN 3-2410N|Traco 24/3.3 isolated converter|U14|TRACO ISOLATED CONVERTER|TEN 3-2410N|1
